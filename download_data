@@ -1,0 +1,8 @@
+#!/bin/sh
+
+mkdir -p data
+curl -O http://seanlahman.com/files/database/lahman-csv_2015-01-24.zip
+
+mv lahman-csv_2015-01-24.zip data/
+cd data
+unzip lahman-csv_2015-01-24.zip
