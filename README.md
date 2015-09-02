@@ -1,4 +1,5 @@
-# Money Ball
+# To run Moneyball.ipynb use Ipython Notebook and download data using download_data script into a 'data' folder in same directory as the notebook
+## Money Ball
 
 ## Description
 
